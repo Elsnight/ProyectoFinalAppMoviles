@@ -29,8 +29,8 @@ class Perfil : AppCompatActivity() {
 
         db.collection("user").document(uid).get()
             .addOnSuccessListener {
-                binding.NickName.setText("NickName: "+it.get("NickName") as String?)
-                binding.Correo.setText("Correo: "+it.get("Email") as String?)
+                binding.NickName.setText(""+it.get("NickName") as String?)
+                binding.Correo.setText(""+it.get("Email") as String?)
             }
 
 
