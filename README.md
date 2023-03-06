@@ -62,8 +62,15 @@
 
 7. Al momento de realizar clic sobre "ver mapa" de cualquier usuario mostrado, se abre la aplicacion de Google Maps, mostrando la ubiación del usuario seleccionado.
 
+![WhatsApp Image 2023-03-06 at 09 23 44](https://user-images.githubusercontent.com/66568293/223145081-aecd0ee1-8a5e-4529-87be-1b8f20331ed3.jpeg)
+
 
 8. Al dar clic en "cancelar mapeo", se detendra el uso del GPS del dispositivo y cerrará el mapeo de los usuarios.
+
+![WhatsApp Image 2023-03-06 at 09 52 06](https://user-images.githubusercontent.com/66568293/223145379-7d194f69-c91e-48b2-91e4-63a5b9371455.jpeg)
+
+
+
 
 ### Aplicación nativa Kotlyn
 - `DESCARGA LA APK: `: [apk :fire:](https://github.com/Elsnight/ProyectoFinalAppMoviles/blob/master/app/release/app-release.apk)
