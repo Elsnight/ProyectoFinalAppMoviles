@@ -24,6 +24,9 @@
 
 ### 1. Aplicación publicada en la tienda de aplicaciones de Aptoide:
 
+
+![WhatsApp Image 2023-03-06 at 12 07 10](https://user-images.githubusercontent.com/66568293/223180871-d4e47639-c518-407a-ae0b-d76c91533c26.jpeg)
+
 ![WhatsApp Image 2023-03-06 at 10 25 02](https://user-images.githubusercontent.com/66568293/223154121-509ff350-884d-4a97-a399-4adc999d55e2.jpeg)
 
 ### 2. Link de la aplicación en Aptoide:
