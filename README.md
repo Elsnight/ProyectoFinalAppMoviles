@@ -20,7 +20,7 @@
 <img src="https://i.ibb.co/D8HTWJ8/Whats-App-Image-2023-03-06-at-01-05-46.jpg" alt="drawing" width="400"/>
 
 
-# Proyecto de Aplicaciones Móviles 
+## App publicada en una Store
 
 ### 1. Aplicacion publicada en la tienda de aplicaciones de Aptoide:
 
