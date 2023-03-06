@@ -84,7 +84,7 @@ https://buhobike.mx.aptoide.com/?store_name=moviles2022b&app_id=64512962
 ### Aplicación nativa Kotlyn
 - `DESCARGA LA APK: `: [apk :fire:](https://github.com/Elsnight/ProyectoFinalAppMoviles/blob/master/app/release/app-release.apk)
 
-# Link del video de youtube
+# Link del video explicativo
 
 https://youtu.be/C4SQRNng5OI
 
