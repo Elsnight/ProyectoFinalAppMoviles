@@ -28,12 +28,41 @@
 # Funcionamiento de la aplicación
 
 1. Una vez instalada la aplicación, procedemos a abrirla
+
+![WhatsApp Image 2023-03-06 at 09 23 41](https://user-images.githubusercontent.com/66568293/223143092-9029a557-5007-42ed-9997-1d7b3b324fa0.jpeg)
+
+
 2. Al abrir la aplicación aparecerá un cuadro en el que se indica que se "inicie sesión" en caso de tener una cuenta creada anteriormente.
+
+![WhatsApp Image 2023-03-06 at 09 23 41 (1)](https://user-images.githubusercontent.com/66568293/223143127-42da23fb-358e-404d-8513-2b853e70f27e.jpeg)
+
+
 3. Si no se tiene una cuenta creada, se puede crear una cuenta dando clic en el botón abajo, en donde se abrira una nueva ventana en la que la aplicación nos pedira información para poder crear una cuenta.
+
+![WhatsApp Image 2023-03-06 at 09 23 42](https://user-images.githubusercontent.com/66568293/223143216-b4338db2-d92f-44ee-9984-874446af86ab.jpeg)
+
+
 4. Una vez creada la cuenta o iniciado sesión, ingresará automaticamente a la cuenta del usuario, mostrando la siguiente pantalla de inicio.
+
+![WhatsApp Image 2023-03-06 at 09 23 42 (1)](https://user-images.githubusercontent.com/66568293/223143292-f4207d83-f15b-4448-9f41-417930e6889e.jpeg)
+
+
 5. En la parte inferior, podremos ver un botón de "perfil" en donde al dar clic en el, nos mostrará la información relevante del usuario, además de un botón para poder realizar el cierrre de sesión del usuario.
+
+
+![WhatsApp Image 2023-03-06 at 09 23 42 (3)](https://user-images.githubusercontent.com/66568293/223143374-24af994a-05a7-44b1-8790-cc63a8ef997b.jpeg)
+
+
 6. Regresando a la la pagina anterior, podemos ver que existen dos botones, "Ubicación" que es el botón que nos dará la ubicación exacta de nuestra posición, además que mapeará la última ubicación de los demás usuarios.
+
+![WhatsApp Image 2023-03-06 at 09 23 42 (2)](https://user-images.githubusercontent.com/66568293/223143483-f8ddf992-cff0-4570-89b4-34f048a792de.jpeg)
+
+![WhatsApp Image 2023-03-06 at 09 23 43 (2)](https://user-images.githubusercontent.com/66568293/223143522-6592064f-7f96-41c4-80dd-9a5368c117b8.jpeg)
+
+
 7. Al momento de realizar clic sobre "ver mapa" de cualquier usuario mostrado, se abre la aplicacion de Google Maps, mostrando la ubiación del usuario seleccionado.
+
+
 8. Al dar clic en "cancelar mapeo", se detendra el uso del GPS del dispositivo y cerrará el mapeo de los usuarios.
 
 ### Aplicación nativa Kotlyn
