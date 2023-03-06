@@ -47,5 +47,11 @@ class Perfil : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+
+//        binding.editButton.setOnClickListener {
+//            val intent : Intent = Intent(this, UpdateActivity::class.java)
+//            startActivity(intent)
+//            finish()
+//        }
     }
 }

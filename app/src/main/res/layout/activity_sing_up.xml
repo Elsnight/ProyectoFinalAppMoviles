@@ -7,9 +7,18 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@drawable/inicio"
+    android:background="@drawable/profilebkg"
     tools:context=".SingUpActivity">
 
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/profileImg"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/buho"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -55,8 +64,7 @@
                 android:layout_marginTop="20dp"
                 android:padding="5dp"
                 android:textSize="15sp"
-
-                android:hint="username"
+                android:hint="Nombre"
                 android:drawableLeft="@drawable/baseline_person_pin_24"
                 android:drawablePadding="5dp"
                 android:textColor="@color/black" />

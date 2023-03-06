@@ -36,9 +36,9 @@ class SingInActivity : AppCompatActivity() {
 
         googleSingInClient = GoogleSignIn.getClient(this,gso)
 
-        binding.googleButton.setOnClickListener {
-            singInGoogle()
-        }
+//        binding.googleButton.setOnClickListener {
+//            singInGoogle()
+//        }
         binding.textView.setOnClickListener {
             val intent = Intent(this, SingUpActivity::class.java)
             startActivity(intent)

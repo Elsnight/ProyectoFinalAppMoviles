@@ -133,9 +133,6 @@ class MainActivity : AppCompatActivity() {
                 return
             }
 
-
-
-
         myHandler.post(object : Runnable {
             override fun run() {
                 leerubicacionactual()
