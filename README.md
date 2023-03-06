@@ -1,5 +1,11 @@
 # Proyecto de Aplicaciones Móviles 
 #### Se implementa una aplicación nativa con la intención de geolocalizar a un grupo de ciclistas.
+### Integrantes
+ - ELENA PEREZ
+ - DANIEL FLORES
+ - JOHAN QUINOTOA
+ - MIGUEL CUENCA
+
 ### Despliegue
 ### 1. Aplicacion es lanzada en la Play Store  :rocket:
 
