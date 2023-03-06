@@ -3,7 +3,7 @@
 ### Integrantes
  - ELENA PEREZ
  - DANIEL FLORES
- - JOHAN QUINOTOA
+ - JOHAN QUINATOA
  - MIGUEL CUENCA
 
 ### Despliegue
@@ -18,6 +18,13 @@
 
 
 <img src="https://i.ibb.co/D8HTWJ8/Whats-App-Image-2023-03-06-at-01-05-46.jpg" alt="drawing" width="400"/>
+
+
+# Proyecto de Aplicaciones Móviles 
+
+### 1. Aplicacion publicada en la tienda de aplicaciones de Aptoide:
+
+
 
 
 ### Aplicación nativa Kotlyn
