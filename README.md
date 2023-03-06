@@ -22,7 +22,13 @@
 
 ## App publicada en una Store
 
-### 1. Aplicacion publicada en la tienda de aplicaciones de Aptoide:
+### 1. Aplicación publicada en la tienda de aplicaciones de Aptoide:
+
+![WhatsApp Image 2023-03-06 at 10 25 02](https://user-images.githubusercontent.com/66568293/223154121-509ff350-884d-4a97-a399-4adc999d55e2.jpeg)
+
+### 1. Link de la aplicación en Aptoide:
+
+https://buhobike.mx.aptoide.com/?store_name=moviles2022b&app_id=64512962
 
 
 # Funcionamiento de la aplicación
